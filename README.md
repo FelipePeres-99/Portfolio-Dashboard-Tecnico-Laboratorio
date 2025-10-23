@@ -42,7 +42,7 @@ Este projeto foi construído de ponta a ponta, simulando um ambiente empresarial
 
 ## 4. Demonstração em Ação 🎬
 
-*(Aqui você pode colocar o seu GIF/Vídeo! Veja como fazer o upload abaixo)*
+Screenshots/demo_dashboard.gif
 
 ## 5. Ficheiros do Projeto
 
